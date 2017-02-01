@@ -1,3 +1,5 @@
+/*A BIT OF MADNESS IS KEY*/
+
 //counting sheep
 
 function countSheeps(arrayOfSheep) {
